@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-This project scrapes data on EU law documents from the [EUR-Lex website](https://eur-lex.europa.eu). It retrieves the number of law documents for the entire EU, broken down by country and document type, and generates a comprehensive **panel dataset** with monthly frequency and country-level granularity.
+This project scrapes data on EU law documents from the [EUR-Lex website](https://eur-lex.europa.eu/statistics/eu-law-statistics.html/statistics/). It retrieves the number of law documents for the entire EU, broken down by country and document type, and generates a comprehensive **panel dataset** with monthly frequency and country-level granularity.
 
 
 ---
@@ -46,7 +46,7 @@ This project scrapes data on EU law documents from the [EUR-Lex website](https:/
 
 1. **🔍 Scraping HTML Files**:
    - The script iterates through all months from **2003** to **2025**.
-   - Downloads HTML files from the [EUR-Lex website](https://eur-lex.europa.eu/statistics/).
+   - Downloads HTML files from the [EUR-Lex website](https://eur-lex.europa.eu/statistics/eu-law-statistics.html/statistics//statistics/).
 
 2. **📂 Processing HTML Files**:
    - Extracts:
@@ -97,4 +97,4 @@ This project scrapes data on EU law documents from the [EUR-Lex website](https:/
 
 ---
 
-Feel free to explore the **[EUR-Lex website](https://eur-lex.europa.eu/statistics/)** or check out the dataset directly: [eu_law_statistics_panel.csv](./eu_law_statistics_panel.csv). 😊 Let me know if you have any feedback!
+Feel free to explore the **[EUR-Lex website](https://eur-lex.europa.eu/statistics/eu-law-statistics.html/statistics//statistics/)** or check out the dataset directly: [eu_law_statistics_panel.csv](./eu_law_statistics_panel.csv). 😊 Let me know if you have any feedback!
