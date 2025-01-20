@@ -57,7 +57,7 @@ This project scrapes data on EU law documents from the [EUR-Lex website](https:/
    - Merges the country and sector data into a single dataset with monthly frequency.
 
 4. **📤 Output**:
-   - Saves the final dataset as a CSV file: [eu_law_statistics_panel.csv](./path_to_eu_law_statistics_panel.csv).
+   - Saves the final dataset as a CSV file: [eu_law_statistics_panel.csv](./eu_law_statistics_panel.csv).
 
 ---
 
