@@ -97,4 +97,4 @@ This project scrapes data on EU law documents from the [EUR-Lex website](https:/
 
 ---
 
-Feel free to explore the **[EUR-Lex website](https://eur-lex.europa.eu/statistics/)** or check out the dataset directly: [eu_law_statistics_panel.csv](./path_to_eu_law_statistics_panel.csv). 😊 Let me know if you have any feedback!
+Feel free to explore the **[EUR-Lex website](https://eur-lex.europa.eu/statistics/)** or check out the dataset directly: [eu_law_statistics_panel.csv](./eu_law_statistics_panel.csv). 😊 Let me know if you have any feedback!
